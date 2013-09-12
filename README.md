@@ -3,8 +3,8 @@ The Bad Luck Square
 
 *Created by Onelio Junior for js13kGames*
 
-The Bad Luck Square is a simple shooter game that will challange your skills.
-You'll have to protect a square by shooting enemies and buying upgrades
+The Bad Luck Square is a simple shooter game that will challenge your skills.
+You'll have to protect a square by shooting enemies and buying upgrades.
 
 
 WASD to move.
