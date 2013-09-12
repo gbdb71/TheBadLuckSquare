@@ -1,4 +1,4 @@
-# The Bad Luck Square
+The Bad Luck Square
 ===
 
 *Created by Onelio Junior for js13kGames*
