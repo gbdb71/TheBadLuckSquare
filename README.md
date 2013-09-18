@@ -14,4 +14,4 @@ Arrow keys (or mouse) to shoot.
 Good Luck!
 
 
-**js13kGames:** http://js13kgames.com/
+**You can play at:** http://js13kgames.com/entries/the-bad-luck-square
